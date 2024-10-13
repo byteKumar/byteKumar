@@ -1,8 +1,12 @@
-<p style="display: flex; align-items: center; justify-content: center;" align="right">
-  <img width="500px" src="https://komarev.com/ghpvc/?username=byteKumar&color=blue">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=byteKumar&color=blue">
 </p>
 
-![Banner](github_ck.jpeg)
+<!-- Flexbox container for the image -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <!-- Banner image -->
+  <img width="350px" src="github_ck.jpeg" alt="Banner Image">
+</div>
 
 
 <h2 align="center">👇 A Little About Me! 👇</h2>
