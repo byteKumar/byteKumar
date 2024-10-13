@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ROSDAD&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=byteKumar&color=blue">
 </p>
 
 ![Banner](github_ck.jpeg)
@@ -127,7 +127,7 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master’
 
 
 <!--
-**bytekumar/chamankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**byteKumar/chamankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
