@@ -117,10 +117,10 @@ I am a Full Stack Developer and Software Engineer currently pursuing a Master’
 <h2 align="center">🤝 Let's connect! 🤝</h2>
 
 <p align="center">
-  <a href="https://chamankumar.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.roshandadlani.com-darkblue"></a>
-  <a href="https://www.linkedin.com/in/chamankumar5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roshan%20Dadlani-blue"></a>
-  <a href="https://github.com/byteKumar" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ROSDAD-green"></a>
-  <a href="https://www.instagram.com/varun_t90" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@roshan_dadlani-pink"></a>
+  <a href="https://chamankumar.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.chamankumar.com-darkblue"></a>
+  <a href="https://www.linkedin.com/in/chamankumar5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chaman%20Dadlani-blue"></a>
+  <a href="https://github.com/byteKumar" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-bytekumar-green"></a>
+  <a href="https://www.instagram.com/varun_t90" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@varun_t90-pink"></a>
 </p>
 
 
