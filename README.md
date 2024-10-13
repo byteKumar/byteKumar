@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=byteKumar&color=blue">
+<p style="display: flex; align-items: center; justify-content: center;" align="right">
+  <img width="500px" src="https://komarev.com/ghpvc/?username=byteKumar&color=blue">
 </p>
 
 ![Banner](github_ck.jpeg)
