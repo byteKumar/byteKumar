@@ -5,7 +5,7 @@
 <!-- Flexbox container for the image -->
 <div align="center">
   <!-- Banner image -->
-  <img width="350px" src="github_ck.jpeg" alt="Banner Image">
+  <img width="550px" src="github_ck.jpeg" alt="Banner Image">
 </div>
 
 
