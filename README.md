@@ -3,7 +3,7 @@
 </p>
 
 <!-- Flexbox container for the image -->
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
   <!-- Banner image -->
   <img width="350px" src="github_ck.jpeg" alt="Banner Image">
 </div>
