@@ -59,7 +59,7 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 - Assisting in course delivery and student support
 
 ### Full-Stack Developer
-**Aspiring Product Managers Club @ Northeastern University** | *Sept 2024 - Present*
+**Aspiring Product Managers Club @ Northeastern University** | *Sept 2024 - Apr 2025*
 - Developing web applications and managing technical projects
 
 ### Software Engineer
@@ -186,6 +186,16 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 - Built a full stack MERN web application that allows users to browse, search, and save their favorite recipes
 - Integrated authentication, content editing, and a personalized recipe feed to elevate user retention and engagement
 - [GitHub](https://github.com/byteKumar/RecipeHub) • [Live Demo](https://recipehubck.netlify.app/) • [Project Journey](https://chamankumar.vercel.app/)
+
+### [PepperUni](https://pepperuni.com/)
+**React, Node.js, Express, PostgreSQL, AWS, Terraform, MERN Stack, Figma**
+- Built a MERN-based AI resume analysis platform designed in Figma, enhancing resume scores by 20%
+- Led technical development and product management for comprehensive platform assisting students in crafting personalized, job-specific resumes
+- Implemented resume parsing and analysis with automatic improvement suggestions
+- Developed job description analysis to identify essential skills and keywords
+- Created tailored resume customization aligned with specific job requirements with version control
+- Students using PepperUni reported a 35% increase in interview callbacks compared to those using generic resumes
+- [GitHub](https://github.com/apmcneuboston/PepperUni) • [Live Demo](https://pepperuni.com/) • [Project Journey](https://chamankumar.vercel.app/)
 
 ---
 
