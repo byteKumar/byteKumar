@@ -36,6 +36,8 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 - CS5610 Web Development
 - CS5800 Algorithms
 - CS5200 Database Management Systems
+- CS5340 Human-Computer Interaction
+- CS5600 Computer Systems
 
 ### Galgotias University
 **Bachelor of Technology in Computer Science & Engineering**  
@@ -53,7 +55,7 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 ## 💼 Experience
 
 ### Graduate Teaching Assistant
-**Northeastern University** | *Jan 2024 - Present*
+**Northeastern University** | *Jan 2025 - Present*
 - Assisting in course delivery and student support
 
 ### Full-Stack Developer
@@ -74,108 +76,116 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-<table>
-<tr>
-<th>Programming Languages</th>
-<th>Frontend</th>
-<th>Backend</th>
-<th>Databases</th>
-<th>DevOps & Cloud</th>
-<th>Tools & Others</th>
-</tr>
-<tr>
-<td>
-
+### Programming
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-</td>
-<td>
+**Java, Python, C/C++, JavaScript, TypeScript, C#, SQL, Go(Golang), Ruby**
 
-![React](https://img.shields.io/badge/-React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-</td>
-<td>
-
+### Web/Frameworks
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angularjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
-</td>
-<td>
+**React, Node.js, Next.js, Express, Spring Boot, .NET, Angular, HTML5/CSS3, Webpack, Socket.IO**
 
+### Databases/Testing
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-CB3032?style=flat&logo=sonarqube&logoColor=white)
 
-</td>
-<td>
+**MySQL, PostgreSQL, DynamoDB, MongoDB, Redis, JUnit, Mockito, Jest, Postman, SonarQube**
 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+### Cloud & DevOps
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-</td>
-<td>
+**Jenkins, Docker, Kubernetes, GCP, Azure, AWS (Lambda, EC2, S3, RDS/DynamoDB, IAM, SNS)**
 
+### Software Development
+**Object-Oriented Design, TDD, Agile, Scrum, Retrospective, Story Planning, Sprint, Service First**
+
+### Certifications
+![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/-AWS%20Developer%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**AWS Cloud Practitioner, AWS Certified Developer Associate**
+
+### Other Tools
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![AEM](https://img.shields.io/badge/-AEM-000000?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Selenium, jQuery, CloudWatch, Cypress, Git, Linux/Bash, CI/CD, GitHub Actions, REST API, JWT**
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Portfolio Website](https://chamankumar.vercel.app/)
-**Next.js, Tailwind CSS, React, TypeScript, Resend**
-- Modern, responsive portfolio website with dark/light theme support
-- Showcases professional experience, projects, publications, and achievements
-- Built with Next.js 13, Framer Motion animations, and optimized for performance
+### [Google Slides Generator](https://github.com/byteKumar/google_slide_generator)
+**React.js, Express, Vite, Node.js, PostgreSQL, MongoDB**
+- Created full-stack slide generator, integrated Google Slides API (OAuth, DB-backed templates)
+- Designed theme-first system/automated layout registry
+- [GitHub](https://github.com/byteKumar/google_slide_generator) • [Project Journey](https://chamankumar.vercel.app/)
 
-### [PepperUni](https://pepperuni.com/)
-**MERN Stack, AI Integration, Figma**
-- MERN-based AI resume analysis platform designed in Figma
-- Enhanced resume scores by 20% through intelligent analysis
-- Full-stack application with MongoDB, Express, React, and Node.js
+### [Advance Image Processor](https://github.com/anandms101/PDPAssignment6)
+**Java, GUI, Software Design Pattern, OOD, TDD**
+- Architected extensible image processing app (MVC), implemented 7+ core transformations
+- Applied Strategy/Factory/Command patterns (cutting feature integration time by 30%)
+- [GitHub](https://github.com/anandms101/PDPAssignment6) • [Project Journey](https://chamankumar.vercel.app/)
 
-### [Recipe Hub](https://recipehubck.netlify.app/)
-**MongoDB, Express.js, React, Node.js**
-- Full-stack MERN application for discovering and saving recipes
-- User authentication and personalized recipe feed
-- Interactive UI with recipe search and filtering capabilities
+### [LeetCode Power Up - Chrome Extension](https://github.com/byteKumar/LeetCode-Power-Up)
+**JavaScript, Chrome Extensions API, YouTube Data API**
+- Shipped Chrome extension (injects 3-5 LeetCode solution videos)
+- Integrated per-problem scratchpad (chrome.storage)
+- Engineered Promise-based async architecture
+- [GitHub](https://github.com/byteKumar/LeetCode-Power-Up) • [Project Journey](https://chamankumar.vercel.app/)
 
-### [Task Flow Planner](https://github.com/byteKumar/TaskFlow-Planner)
-**Java, Spring Boot, Maven, Thymeleaf**
-- Algorithm-based task sequencing and allocation system
-- Optimizes project management by generating detailed daily plans
-- Built with Spring Boot and Java backend
+### [DesignCraft](https://github.com/byteKumar/systemdesign)
+**Java, JUnit, UML, Markdown, Git, Lombok, OOPs, LLD**
+- Built a system design course on OOP, SOLID, and design patterns with 50+ live code examples used by 500+ students
+- Created UML diagrams, JUnit tests, and markdown notes for clear, practical learning
+- Implemented 15+ real-world assignments, driving a 90%+ completion-rate among senior year undergrad students
+- [GitHub](https://github.com/byteKumar/systemdesign) • [Project Journey](https://chamankumar.vercel.app/)
 
-### [Image Processing Application](https://github.com/anandms101/PDPAssignment6)
-**Java, Swing, MVC Pattern**
-- Swing GUI and batch processing tool for image manipulation
-- Implemented Command Pattern and MVC architecture
-- Supports JPG, PNG, and PPM formats
+### [RecipeHub](https://recipehubck.netlify.app/)
+**Node.js, TypeScript, MongoDB, React, Express, Redux, REST APIs**
+- Built a full stack MERN web application that allows users to browse, search, and save their favorite recipes
+- Integrated authentication, content editing, and a personalized recipe feed to elevate user retention and engagement
+- [GitHub](https://github.com/byteKumar/RecipeHub) • [Live Demo](https://recipehubck.netlify.app/) • [Project Journey](https://chamankumar.vercel.app/)
 
 ---
 
@@ -190,7 +200,8 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 
 ## 📝 Certifications
 
-- [AWS Certified Developer Associate](https://www.linkedin.com/feed/update/urn:li:activity:6896724967623663616/)
+- **AWS Cloud Practitioner**
+- **AWS Certified Developer Associate** - [View Certificate](https://www.linkedin.com/feed/update/urn:li:activity:6896724967623663616/)
 
 ---
 
@@ -229,18 +240,8 @@ When I'm not in front of a computer screen, you'll likely find me reading a non-
 
 ---
 
-<div align="center">
-  <img src="https://github.com/byteKumar/byteKumar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</i>
   <br>
   <b>Thanks for visiting my profile! Feel free to reach out for collaboration opportunities.</b>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=byteKumar.byteKumar&left_text=Visitors" alt="Visitor Badge">
 </p>
